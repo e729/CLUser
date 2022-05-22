@@ -8,7 +8,7 @@
 回帖逻辑是：在技术讨论区，随机选择帖子，随机选择内容(内置了一些万能回复内容，比如'1024感谢分享')，在17-30分钟之间随机时间间隔进行回复；当天发满10帖后，停止发帖；在第二天的8-16点之间随机选择时间开始，继续发帖。
 
 
-[Gitee本地下载](https://gitee.com/e729/cl-user/raw/master/CLUser-release-v1.1.apk)
+[Github本地下载](https://raw.githubusercontent.com/e729/CLUser/main/CLUser-release-v1.1.apk)
 
 [百度网盘下载](https://pan.baidu.com/s/1Zz2wyrwDWJb_7PjPBOkZDQ?pwd=9w44)
 
